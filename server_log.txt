@@ -1,0 +1,345 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:00:54] plugins = ""  (string)
+[20:00:54] filterscripts = ""  (string)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:01:01] plugins = ""  (string)
+[20:01:01] filterscripts = ""  (string)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:01:07] plugins = ""  (string)
+[20:01:07] filterscripts = ""  (string)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:19] filterscripts = ""  (string)
+[20:07:19] 
+[20:07:19] Server Plugins
+[20:07:19] --------------
+[20:07:19]  Loading plugin: textdraw-streamer.dll
+[20:07:19] 
+[20:07:19]  =================================
+[20:07:19]  |                               |
+[20:07:19]  |    textdraw-streamer v2.0.4   |
+[20:07:19]  |            Loaded             |
+[20:07:19]  |                               |
+[20:07:19]  |  Coding:                      |
+[20:07:19]  |                               |
+[20:07:19]  |  Burak (Nexor)                |
+[20:07:19]  |                               |
+[20:07:19]  |  Compiled:                    |
+[20:07:19]  |                               |
+[20:07:19]  |  25.08.2025, 17:38:59         |
+[20:07:19]  |                               |
+[20:07:19]  |  Github:                      |
+[20:07:19]  |                               |
+[20:07:19]  |  github.com/nexquery          |
+[20:07:19]  |                               |
+[20:07:19]  |  Discord:                     |
+[20:07:19]  |                               |
+[20:07:19]  |  benburakya - Nexor#4730      |
+[20:07:19]  |                               |
+[20:07:19]  =================================
+[20:07:19] 
+[20:07:19]   Loaded.
+[20:07:19]  Loading plugin: pawncmd.dll
+[20:07:19] [Pawn.CMD] plugin v3.4.0 loading...
+[20:07:19] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:07:19]   Loaded.
+[20:07:19]  Loading plugin: streamer.dll
+[20:07:19] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[20:07:19]   Loaded.
+[20:07:19]  Loading plugin: sscanf.dll
+[20:07:19] 
+[20:07:19]  ===============================
+[20:07:19] 
+[20:07:19]       sscanf plugin loaded.     
+[20:07:19] 
+[20:07:19]          Version: 2.13.8
+[20:07:19] 
+[20:07:19]    (c) 2022 Alex "Y_Less" Cole  
+[20:07:19] 
+[20:07:19]  ===============================
+[20:07:19] 
+[20:07:19]   Loaded.
+[20:07:19]  Loaded 4 plugins.
+
+[20:07:19] 
+[20:07:19] Filterscripts
+[20:07:19] ---------------
+[20:07:19]   Loaded 0 filterscripts.
+
+[20:07:19]  
+[20:07:19]  
+[20:07:19]          ==============================================================
+[20:07:19]          |                                                            |
+[20:07:19]          |                                                            |
+[20:07:19]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[20:07:19]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[20:07:19]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[20:07:19]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[20:07:19]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[20:07:19]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[20:07:19]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[20:07:19]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[20:07:19]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[20:07:19]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[20:07:19]          |           Y:::::Y                    S:::::S   I::::I      |
+[20:07:19]          |           Y:::::Y                    S:::::S   I::::I      |
+[20:07:19]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[20:07:19]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[20:07:19]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[20:07:19]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[20:07:19]          |                                                            |
+[20:07:19]          |                                                            |
+[20:07:19]          |                      (c) 2021 MPL v1.1                     |
+[20:07:19]          |            Alex "Y_Less" Cole and contributors.            |
+[20:07:19]          |                                                            |
+[20:07:19]          |                                                            |
+[20:07:19]          ==============================================================
+[20:07:19]  
+[20:07:19]  
+[20:07:19]  ========================================== 
+[20:07:19]  |                                        | 
+[20:07:19]  |  Missing YSI scriptfiles directories:  | 
+[20:07:19]  |                                        | 
+[20:07:19]  |      /scriptfiles/YSI/fixes/           | 
+[20:07:19]  |      /scriptfiles/YSI/temp/            | 
+[20:07:19]  |                                        | 
+[20:07:19]  ========================================== 
+[20:07:19]  |                                        | 
+[20:07:19]  |   Generating code, this may take a     | 
+[20:07:19]  |  little bit of time.  Note that this   | 
+[20:07:19]  |  code generation works best with the   | 
+[20:07:19]  |     JIT plugin, which you are not      | 
+[20:07:19]  |     currently using.  Get it here:     | 
+[20:07:19]  |                                        | 
+[20:07:19]  |       https://git.io/jit-plugin        | 
+[20:07:19]  |                                        | 
+[20:07:19]  |             Please wait...             | 
+[20:07:19]  |                                        | 
+[20:07:19]  |             Done in 110ms!             | 
+[20:07:19]  |                                        | 
+[20:07:19]  ========================================== 
+[20:07:19]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[20:07:19]  |                                        | 
+[20:07:19]  | Server:      0.3.7-R2 (W)              | 
+[20:07:19]  | Started:     04 Jan 2026 - 20:07:19    | 
+[20:07:19]  |                                        | 
+[20:07:19]  | Compiler:    3.10.10 (Windows)         | 
+[20:07:19]  | Includes:    0.3DL                     | 
+[20:07:19]  | Codepage:    <none>                    | 
+[20:07:19]  | Built:       04 Jan 2026 - 20:06:58    | 
+[20:07:19]  |                                        | 
+[20:07:19]  | YSI:         v05.10.0006               | 
+[20:07:19]  | Master:      -1                        | 
+[20:07:19]  |                                        | 
+[20:07:19]  | JIT:         <none>                    | 
+[20:07:19]  | Crashdetect: <none>                    | 
+[20:07:19]  |                                        | 
+[20:07:19]  ========================================== 
+[20:07:19]  
+[20:07:19]  
+[20:07:19] 
+----------------------------------
+[20:07:19]  Rust Load sussced
+[20:07:19] ----------------------------------
+
+[20:07:19] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:08:21] filterscripts = ""  (string)
+[20:08:21] 
+[20:08:21] Server Plugins
+[20:08:21] --------------
+[20:08:21]  Loading plugin: textdraw-streamer.dll
+[20:08:21] 
+[20:08:21]  =================================
+[20:08:21]  |                               |
+[20:08:21]  |    textdraw-streamer v2.0.4   |
+[20:08:21]  |            Loaded             |
+[20:08:21]  |                               |
+[20:08:21]  |  Coding:                      |
+[20:08:21]  |                               |
+[20:08:21]  |  Burak (Nexor)                |
+[20:08:21]  |                               |
+[20:08:21]  |  Compiled:                    |
+[20:08:21]  |                               |
+[20:08:21]  |  25.08.2025, 17:38:59         |
+[20:08:21]  |                               |
+[20:08:21]  |  Github:                      |
+[20:08:21]  |                               |
+[20:08:21]  |  github.com/nexquery          |
+[20:08:21]  |                               |
+[20:08:21]  |  Discord:                     |
+[20:08:21]  |                               |
+[20:08:21]  |  benburakya - Nexor#4730      |
+[20:08:21]  |                               |
+[20:08:21]  =================================
+[20:08:21] 
+[20:08:21]   Loaded.
+[20:08:21]  Loading plugin: pawncmd.dll
+[20:08:21] [Pawn.CMD] plugin v3.4.0 loading...
+[20:08:21] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:08:21]   Loaded.
+[20:08:21]  Loading plugin: streamer.dll
+[20:08:21] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[20:08:21]   Loaded.
+[20:08:21]  Loading plugin: sscanf.dll
+[20:08:21] 
+[20:08:21]  ===============================
+[20:08:21] 
+[20:08:21]       sscanf plugin loaded.     
+[20:08:21] 
+[20:08:21]          Version: 2.13.8
+[20:08:21] 
+[20:08:21]    (c) 2022 Alex "Y_Less" Cole  
+[20:08:21] 
+[20:08:21]  ===============================
+[20:08:21] 
+[20:08:21]   Loaded.
+[20:08:21]  Loaded 4 plugins.
+
+[20:08:21] 
+[20:08:21] Filterscripts
+[20:08:21] ---------------
+[20:08:21]   Loaded 0 filterscripts.
+
+[20:08:21]  
+[20:08:21]  
+[20:08:21]          ==============================================================
+[20:08:21]          |                                                            |
+[20:08:21]          |                                                            |
+[20:08:21]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[20:08:21]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[20:08:21]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[20:08:21]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[20:08:21]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[20:08:21]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[20:08:21]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[20:08:21]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[20:08:21]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[20:08:21]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[20:08:21]          |           Y:::::Y                    S:::::S   I::::I      |
+[20:08:21]          |           Y:::::Y                    S:::::S   I::::I      |
+[20:08:21]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[20:08:21]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[20:08:21]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[20:08:21]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[20:08:21]          |                                                            |
+[20:08:21]          |                                                            |
+[20:08:21]          |                      (c) 2021 MPL v1.1                     |
+[20:08:21]          |            Alex "Y_Less" Cole and contributors.            |
+[20:08:21]          |                                                            |
+[20:08:21]          |                                                            |
+[20:08:21]          ==============================================================
+[20:08:21]  
+[20:08:21]  
+[20:08:21]  ========================================== 
+[20:08:21]  |                                        | 
+[20:08:21]  |  Missing YSI scriptfiles directories:  | 
+[20:08:21]  |                                        | 
+[20:08:21]  |      /scriptfiles/YSI/fixes/           | 
+[20:08:21]  |      /scriptfiles/YSI/temp/            | 
+[20:08:21]  |                                        | 
+[20:08:21]  ========================================== 
+[20:08:21]  |                                        | 
+[20:08:21]  |   Generating code, this may take a     | 
+[20:08:21]  |  little bit of time.  Note that this   | 
+[20:08:21]  |  code generation works best with the   | 
+[20:08:21]  |     JIT plugin, which you are not      | 
+[20:08:21]  |     currently using.  Get it here:     | 
+[20:08:21]  |                                        | 
+[20:08:21]  |       https://git.io/jit-plugin        | 
+[20:08:21]  |                                        | 
+[20:08:21]  |             Please wait...             | 
+[20:08:21]  |                                        | 
+[20:08:21]  |             Done in 116ms!             | 
+[20:08:21]  |                                        | 
+[20:08:21]  ========================================== 
+[20:08:21]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[20:08:21]  |                                        | 
+[20:08:21]  | Server:      0.3.7-R2 (W)              | 
+[20:08:21]  | Started:     04 Jan 2026 - 20:08:21    | 
+[20:08:21]  |                                        | 
+[20:08:21]  | Compiler:    3.10.10 (Windows)         | 
+[20:08:21]  | Includes:    0.3DL                     | 
+[20:08:21]  | Codepage:    <none>                    | 
+[20:08:21]  | Built:       04 Jan 2026 - 20:06:58    | 
+[20:08:21]  |                                        | 
+[20:08:21]  | YSI:         v05.10.0006               | 
+[20:08:21]  | Master:      -1                        | 
+[20:08:21]  |                                        | 
+[20:08:21]  | JIT:         <none>                    | 
+[20:08:21]  | Crashdetect: <none>                    | 
+[20:08:21]  |                                        | 
+[20:08:21]  ========================================== 
+[20:08:21]  
+[20:08:21]  
+[20:08:21] 
+----------------------------------
+[20:08:21]  Rust Load sussced
+[20:08:21] ----------------------------------
+
+[20:08:21] Number of vehicle models: 0

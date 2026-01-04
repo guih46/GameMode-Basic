@@ -1,8 +1,8 @@
 
 			// Includes
-#include <YSI_Visual\y_dialog>
-#include <YSI_Coding\y_inline>
-#include <YSI_Coding\y_hooks>
+#include <YSI\YSI_Visual\y_dialog>
+#include <YSI\YSI_Coding\y_inline>
+#include <YSI\YSI_Coding\y_hooks>
 
 #if defined _easyDialog_included
 	#endinput
