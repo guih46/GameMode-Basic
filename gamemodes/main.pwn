@@ -7,6 +7,7 @@
 #include <YSI/YSI_Coding/y_va>
 
 //Modules GameMode-Basic
+// PARA FUNCIONAR OS MODULES CRIE UMA PASTA "modules" dentro de gamemodes
 //#include "modules\server\system.inc"
 
 main()
