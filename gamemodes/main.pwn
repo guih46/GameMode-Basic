@@ -9,12 +9,12 @@
 main()
 {
 	print("\n----------------------------------");
-	print(" Rust Load sussced");
+	print(" Server Load sussced");
 	print("----------------------------------\n");
 }
 
 public OnGameModeInit() {
-	SetGameModeText("Pvp");
+	SetGameModeText("MODO");
 	return true;
 }
 
