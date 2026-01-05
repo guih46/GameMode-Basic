@@ -6,6 +6,9 @@
 #include <YSI/YSI_Coding/y_hooks> 
 #include <YSI/YSI_Coding/y_va>
 
+//Modules GameMode-Basic
+//#include "modules\server\system.inc"
+
 main()
 {
 	print("\n----------------------------------");
