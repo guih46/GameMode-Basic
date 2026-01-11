@@ -2,6 +2,7 @@
 #include <streamer>
 #include <sscanf2>
 #include <Pawn.CMD>
+#include <textdraw-streamer>
 #include <easyDialog>
 #include <YSI/YSI_Coding/y_hooks> 
 #include <YSI/YSI_Coding/y_va>
